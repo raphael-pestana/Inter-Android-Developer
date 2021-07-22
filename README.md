@@ -6,31 +6,31 @@ Projetos e desafios realizados durante o Inter Android Developer da plataforma [
 
 ## **📚 Desafios**
 
-### Introdução a Programação em Kotlin
+### Desafios Matemáticos em Kotlin
 
-- [Soma Simples](https://...)
-- [Números Ímpares](https://...)
-- [Quadrado e ao Cubo](https://...)
+- [Análise de Números](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Desafios%20em%20Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/An%C3%A1lise%20de%20N%C3%BAmeros.kt)
+- [02](https://...)
+- [03](https://...)
 
-### Solucionando Problemas em Kotlin
+### Praticando Aritmética em Kotlin
 
-- [Taxa de Imposto de Renda](https://...)
-- [Área do Círculo](https://...)
-- [Primo Rápido](https://...)
-- [A Corrida de Tartarugas](https://...)
-- [Figurinhas](https://...)
+- [01 ](https://...)
+- [02](https://...)
+- [03](https://...)
+- [04](https://...)
+- [05](https://...)
 
-### Praticando Programação em Kotlin
+### Solucionando Desafios em Kotlin
 
-- [O Jogo Matemático de Paula](https://...)
-- [Conversão Simples de Base](https://...)
-- [Bob Conduite](https://...)
+- [01](https://...)
+- [02](https://...)
+- [03](https://...)
 
 ## **:iphone: Projetos**
 
-| :heavy_check_mark:[**IMC Sincero** (Calculadora IMC)](https://...) | :heavy_check_mark:[**Calculadora** (Simples)](https://...) |
-| ------------------------------------------------------------ | ---------------------------------------------------------- |
-| ![](...gif)                                                  | ![](...gif)                                                |
+| :heavy_check_mark:[**Criando um App de Cartão de Visitas em Kotlin** (Em construção...)](https://...) | :heavy_check_mark:[**Criando um App para Apresentar seu Portfólio do GitHub** (Em construção...)](https://...) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](...gif)                                                  | ![](...gif)                                                  |
 
 
 
