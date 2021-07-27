@@ -9,7 +9,7 @@ Projetos e desafios realizados durante o Inter Android Developer da plataforma [
 ### Desafios Matemáticos em Kotlin
 
 - [Análise de Números](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Desafios%20em%20Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/An%C3%A1lise%20de%20N%C3%BAmeros.kt)
-- [02](https://...)
+- [Consumo Médio do Automóvel](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Desafios%20em%20Kotlin/Desafios%20Matem%C3%A1ticos%20em%20Kotlin/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel.kt)
 - [03](https://...)
 
 ### Praticando Aritmética em Kotlin
