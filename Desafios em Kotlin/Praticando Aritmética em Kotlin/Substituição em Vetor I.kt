@@ -15,15 +15,10 @@ O primeiro número do vetor N (N[0]) irá receber o valor de V.
 // CÓDIGO
 
 fun main(args: Array<String>) {
-    val v = readLine()!!.toInt()
-    val a = IntArray(10).toMutableList()
+    val list = IntArray(10) { readLine()!!.toInt() }
 
-    for (i in 0 until a.size) {
-        a[i] = if (i == 0) v
-        else a[i - 1] * 2
+    for (x in list.indices) {
+        if (list[x] <= 0) list[x] = 1
     }
 
-    for (k in 0 until a.size) {
-        println("N[$k] = ${a[k]}")
-    }
-}
+    for (i in list.indices) println("X[$i] = ${list[i]}")
