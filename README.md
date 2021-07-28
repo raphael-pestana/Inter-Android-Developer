@@ -22,9 +22,9 @@ Projetos e desafios realizados durante o Inter Android Developer da plataforma [
 
 ### Solucionando Desafios em Kotlin
 
-- [01](https://...)
-- [02](https://...)
-- [03](https://...)
+- [Área do Círculo](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Desafios%20em%20Kotlin/Solucionando%20Desafios%20em%20Kotlin/%C3%81rea%20do%20C%C3%ADrculo.kt)
+- [Acima da Diagonal Principal](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Desafios%20em%20Kotlin/Solucionando%20Desafios%20em%20Kotlin/Acima%20da%20Diagonal%20Principal.kt)
+- [Média 1](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Desafios%20em%20Kotlin/Solucionando%20Desafios%20em%20Kotlin/M%C3%A9dia%201.kt)
 
 ## **:iphone: Projetos**
 
