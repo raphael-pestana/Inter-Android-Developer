@@ -14,11 +14,11 @@ Projetos e desafios realizados durante o Inter Android Developer da plataforma [
 
 ### Praticando Aritmética em Kotlin
 
-- [01 ](https://...)
-- [02](https://...)
-- [03](https://...)
-- [04](https://...)
-- [05](https://...)
+- [Coluna na Matriz](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Desafios%20em%20Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/Coluna%20na%20Matriz.kt)
+- [Preenchimento de Vetor I](https://...)
+- [Substituição em Vetor I](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Desafios%20em%20Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/Substitui%C3%A7%C3%A3o%20em%20Vetor%20I.kt)
+- [Fibonacci Fácil](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Desafios%20em%20Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/Fibonacci%20F%C3%A1cil.kt)
+- [Exibindo Números Pares](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Desafios%20em%20Kotlin/Praticando%20Aritm%C3%A9tica%20em%20Kotlin/Exibindo%20N%C3%BAmeros%20Pares.kt)
 
 ### Solucionando Desafios em Kotlin
 
