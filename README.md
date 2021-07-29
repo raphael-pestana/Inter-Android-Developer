@@ -28,7 +28,7 @@ Projetos e desafios realizados durante o Inter Android Developer da plataforma [
 
 ## **:iphone: Projetos**
 
-| :heavy_check_mark:[**Criando um App de Cartão de Visitas em Kotlin** (Em construção...)](https://...) | :heavy_check_mark:[**Criando um App para Apresentar seu Portfólio do GitHub** (Em construção...)](https://...) |
+| :heavy_check_mark:[**My Business Card** (Em construção...)](https://github.com/raphael-pestana/Inter-Android-Developer/tree/main/Projetos/My-Business-Card) | :heavy_check_mark:[**Criando um App para Apresentar seu Portfólio do GitHub** (Em construção...)](https://...) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](...gif)                                                  | ![](...gif)                                                  |
 
