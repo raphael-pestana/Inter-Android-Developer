@@ -23,13 +23,13 @@ class AddBusinessCardActivity : AppCompatActivity() {
         insertListener()
     }
 
-    private fun insertListener(){
+    private fun insertListener() {
         binding.btnClose.setOnClickListener {
             finish()
         }
 
         binding.btnConfirm.setOnClickListener {
-            val businessCard = BusinessCard (
+            val businessCard = BusinessCard(
                 name = binding.tilName.editText?.text.toString(),
                 company = binding.tilCompany.editText?.text.toString(),
                 number = binding.tilPhone.editText?.text.toString(),
@@ -37,7 +37,7 @@ class AddBusinessCardActivity : AppCompatActivity() {
                 cardBackgroung = binding.tilColor.editText?.text.toString()
             )
             mainViewModel.insert(businessCard)
-            Toast.makeText(this, R.string.label_show_success, Toast.LENGTH_SHORT ).show()
+            Toast.makeText(this, R.string.label_show_success, Toast.LENGTH_SHORT).show()
             finish()
         }
     }
