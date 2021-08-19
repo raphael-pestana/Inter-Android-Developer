@@ -33,7 +33,39 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:text="@sample/repositories.json/data/name" />
 
-        //CONTINUAÇÃO - FAZER A DESCRIÇÃO
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tv_repo_description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:layout_marginEnd="@dimen/layout_half_padding"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/tv_repo_name"
+            app:layout_constraintTop_toBottomOf="@id/tv_repo_name"
+            tools:text="@sample/repositories.json/data/description" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_star"
+            android:layout_width="wrap_content"
+            app:layout_constraintStart_toStartOf="@id/tv_repo_name"
+            app:layout_constraintTop_toBottomOf="@id/tv_repo_description"
+            app:chipIcon="@drawable/ic_stars"
+            app:chipIconTint="@color/stars_color"
+            android:text="@sample/repositories.json/data/stargazers_count"
+            app:chipBackgroundColor="@color/white"
+            android:layout_height="30dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tv_repo_language"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/layout_half_padding"
+            android:textStyle="bold"
+            android:layout_marginStart="8dp"
+            app:layout_constraintEnd_toEndOf="@id/tv_repo_name"
+            app:layout_constraintTop_toTopOf="@id/chip_star"
+            tools:text="@sample/repositories.json/data/language" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
