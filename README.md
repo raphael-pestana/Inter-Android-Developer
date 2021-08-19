@@ -28,9 +28,9 @@ Projetos e desafios realizados durante o Inter Android Developer da plataforma [
 
 ## **:iphone: Projetos**
 
-| :heavy_check_mark:[**My Business Card**](https://github.com/raphael-pestana/Inter-Android-Developer/tree/main/Projetos/My-Business-Card) | :heavy_check_mark:[**My App Repositories** (Em construção...)](https://github.com/raphael-pestana/Inter-Android-Developer/tree/main/Projetos/My-App-Repositories) |
+| :heavy_check_mark:[**My Business Card**](https://github.com/raphael-pestana/Inter-Android-Developer/tree/main/Projetos/My-Business-Card) | :heavy_check_mark:[**My App Repositories**](https://github.com/raphael-pestana/Inter-Android-Developer/tree/main/Projetos/My-App-Repositories) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Projetos/My-Business-Card/media/My-Business-Card.gif) | ![](...gif)                                                  |
+| ![](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Projetos/My-Business-Card/media/My-Business-Card.gif) | ![](https://github.com/raphael-pestana/Inter-Android-Developer/blob/main/Projetos/My-App-Repositories/media/My-App-Repositories.gif) |
 
 
 
